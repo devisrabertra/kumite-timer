@@ -1,4 +1,4 @@
-## 🖼️ Tampilan Dashboard
+## Tampilan Dashboard
 
 ### Tampilan Utama (Operator)
 ![Dashboard Operator](dashboard.PNG)
